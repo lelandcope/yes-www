@@ -1,16 +1,20 @@
 {
   "name": "yes-www",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Redirects all naked domains to www domains",
   "main": "index.coffee",
-  "scripts": {
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://lelandcope@github.com/lelandcope/yes-www.git"
   },
-  "repository": "",
   "keywords": [
     "www",
     "redirect",
     "middleware"
   ],
   "author": "Leland Cope",
-  "license": "BSD"
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "67b3ce3d68bb12ee297609ebf30546acd5c792b3"
 }
