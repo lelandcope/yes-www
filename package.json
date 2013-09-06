@@ -1,0 +1,16 @@
+{
+  "name": "yes-www",
+  "version": "0.0.3",
+  "description": "Redirects all naked domains to www domains",
+  "main": "index.coffee",
+  "scripts": {
+  },
+  "repository": "",
+  "keywords": [
+    "www",
+    "redirect",
+    "middleware"
+  ],
+  "author": "Leland Cope",
+  "license": "BSD"
+}
